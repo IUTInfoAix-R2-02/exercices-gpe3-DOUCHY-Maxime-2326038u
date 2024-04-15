@@ -12,7 +12,7 @@ public class TicTacToe extends Application {
         primaryStage.show();
     }
     ImageView image = new ImageView("exercice2/Croix.png");
-    Label.setGraphic(image);
+    //Label.setGraphic(image);
 
 }
 
